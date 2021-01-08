@@ -149,7 +149,7 @@ INTERNAL_IPS = ['127.0.0.1']
 
 
 if os.environ.get('ENV') == 'PRODUCTION':
-    PROJECT_ROOT = os.path.join.dirname(os.path.abspath(__file__))
+    PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
     STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
     STATICFILES_DIRS = ( os.path.join(PROJECT_ROOT, 'static'), )
     STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
