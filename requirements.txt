@@ -1,7 +1,4 @@
 alabaster==0.7.12
-anaconda-client==1.7.2
-anaconda-navigator==1.9.7
-anaconda-project==0.8.3
 appdirs==1.4.4
 argh==0.26.2
 argon2-cffi @ file:///C:/ci/argon2-cffi_1596828549974/work
@@ -42,10 +39,6 @@ cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
 clyent==1.2.2
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 comtypes==1.1.8
-conda==4.9.2
-conda-build==3.18.8
-conda-package-handling @ file:///C:/ci/conda-package-handling_1603018162806/work
-conda-verify==3.4.2
 configobj==5.0.6
 configparser==5.0.0
 contextlib2==0.6.0.post1
@@ -117,17 +110,6 @@ jmespath==0.9.4
 joblib @ file:///tmp/build/80754af9/joblib_1607970656719/work
 json5==0.9.5
 jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
-jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
-jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
-jupyter-core @ file:///C:/ci/jupyter_core_1606130908768/work
-jupyterlab==2.2.6
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
-kaggle==1.5.5
-Keras==2.2.4
-Keras-Applications==1.0.8
-Keras-Preprocessing==1.1.0
 keyring @ file:///C:/ci/keyring_1609335582560/work
 kiwisolver @ file:///C:/ci/kiwisolver_1603996595157/work
 lazy-object-proxy @ file:///C:/b/work
@@ -153,7 +135,6 @@ multipledispatch==0.6.0
 multitasking==0.0.9
 murmurhash==1.0.2
 mypy-extensions==0.4.3
-mysqlclient==1.4.6
 navigator-updater==0.2.1
 nbclient @ file:///tmp/build/80754af9/nbclient_1602783176460/work
 nbconvert @ file:///C:/ci/nbconvert_1601914921407/work
@@ -171,8 +152,6 @@ numexpr==2.7.1
 numpy==1.18.1
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 olefile==0.46
-opencv-python==4.1.0.25
-openpyxl @ file:///tmp/build/80754af9/openpyxl_1598113097404/work
 packaging @ file:///tmp/build/80754af9/packaging_1607971725249/work
 pandas==1.0.3
 pandas-datareader==0.8.1
@@ -218,7 +197,6 @@ pylint @ file:///C:/ci/pylint_1598605958085/work
 pyls-black @ file:///tmp/build/80754af9/pyls-black_1607553132291/work
 pyls-spyder @ file:///tmp/build/80754af9/pyls-spyder_1608134179673/work
 PyMuPDF==1.17.4
-PyMySQL==0.9.3
 PyNaCl @ file:///C:/ci/pynacl_1595009241355/work
 pyodbc===4.0.0-unsupported
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
